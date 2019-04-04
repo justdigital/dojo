@@ -1,3 +1,3 @@
 # Coding Dojo
 
-Coding dojos realizados na Just Digital.
+Coding dojos realizados no [Verity Group](https://verity.com.br).
